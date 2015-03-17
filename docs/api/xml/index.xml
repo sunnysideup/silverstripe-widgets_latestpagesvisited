@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgets_latestpagesvisited/trunk">
+  <namespace name="">
+    <class name="LatestPagesVisitedWidget" src="LatestPagesVisitedWidget.php" xml="classes/LatestPagesVisitedWidget.xml"/>
+  </namespace>
+</index>
