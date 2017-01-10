@@ -1,41 +1,72 @@
-widgets blog entries
-================================================================================
+# Silverstripe widgets latestpagesvisited module
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-widgets_latestpagesvisited.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-widgets_latestpagesvisited)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-widgets_latestpagesvisited/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-widgets_latestpagesvisited/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-widgets_latestpagesvisited/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-widgets_latestpagesvisited?branch=master)
+![helpfulrobot](https://helpfulrobot.io/sunnysideup/widgets_latestpagesvisited/badge)
 
-includes a widget with the last xxx blog
-entries listed
-
-Maintainer Contact
------------------------------------------------
-nicolaas [at] sunnysideup.co.nz
-
-Requirements
------------------------------------------------
-see composer.json
+[![Latest Stable Version](https://poser.pugx.org/sunnysideup/widgets_latestpagesvisited/version)](https://packagist.org/packages/sunnysideup/widgets_latestpagesvisited)
+[![License](https://poser.pugx.org/sunnysideup/widgets_latestpagesvisited/license)](https://packagist.org/packages/sunnysideup/widgets_latestpagesvisited)
+[![Monthly Downloads](https://poser.pugx.org/sunnysideup/widgets_latestpagesvisited/d/monthly)](https://packagist.org/packages/sunnysideup/widgets_latestpagesvisited)
 
 
-Documentation
------------------------------------------------
-Please contact author for more details.
-
-Any bug reports and/or feature requests will be
-looked at
-
-We are also very happy to provide personalised support
-for this module in exchange for a small donation.
-
-
-Installation Instructions
------------------------------------------------
-1. Find out how to add widgets to SS and add module as per usual.
-2. copy configurations from this widget's _config.php file
-into mysite/_config.php file and edit settings as required.
-NB. the idea is not to edit the module at all, but instead customise
-it from your mysite folder, so that you can upgrade the module without redoing the settings.
-
-
-Usage Overview
------------------------------------------------
+## Documentation
 
 
 
+ * [Developer Docs](docs/en/INDEX.md)
+ * [User Guide](docs/en/userguide.md)
+ * [API](http://ssmods.com/apis/widgets_latestpagesvisited/docs/en/api/)
 
+## Requirements
+
+
+
+see [composer.json](composer.json) for details
+
+### Suggested Modules
+
+
+
+see [composer.json](composer.json) for details
+
+
+## Installation
+
+
+```
+composer require sunnysideup/widgets_latestpagesvisited
+```
+
+### Configuration
+
+
+
+In the `_config` folder you will find the `widgets_latestpagesvisited.yml.example`
+file that shows options for the configuration of this module.
+
+We recommend that you:
+
+  1. copy these `widgets_latestpagesvisited.yml.example` files into your
+`mysite/_config` folder
+  2. remove the .example extension
+  3. delete the lines you not care about, and
+  4. adjust the configurations that you would like to use.
+
+
+## Contributing
+
+
+
+We welcome any contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## Paid assistance
+
+
+
+You can pay us to create an improved / adapted version of this module for your own projects.  Please contact us if you like to find out more: [www.sunnysideup.co.nz](http://www.sunnysideup.co.nz)
+
+## Author
+
+
+
+Sunny Side Up Ltd.
