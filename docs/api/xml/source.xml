@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/widgets_latestpagesvisited/trunk">
-    <file name="_config.php" size="410" time="2015-03-14T10:22:13+13:00" unixtime="1426281733" sha1="13c763e8aa519782c89bf12fbe8b370ff6378e58" xml="tokens/_config.php.xml"/>
-    <file name="LatestPagesVisitedWidget.php" size="1878" time="2015-03-14T10:22:13+13:00" unixtime="1426281733" sha1="966add8c5095ed9b534552b1d04fccf853a5da0b" xml="tokens/LatestPagesVisitedWidget.php.xml"/>
-  </dir>
-</source>
